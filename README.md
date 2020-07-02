@@ -21,4 +21,4 @@ Most likely you want to create a service account and give limited privileges. He
 
 # Produce a message via CLI
 
-ccloud kafka topic produce asdf
+```ccloud kafka topic produce asdf```

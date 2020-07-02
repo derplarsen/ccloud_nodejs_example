@@ -3,6 +3,10 @@ Simple Node.js example using KafkaJS NPM
 
 # Use the example js file provided
 
+```npm install KafkaJS```
+
+```node ccloud-consume.js```
+
 # Security 
 
 The basic method is to create an API Key and Secret via ccloud CLI or via Confluent Cloud UI. However, that will give you full privileges.
